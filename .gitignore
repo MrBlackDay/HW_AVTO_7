@@ -2,5 +2,5 @@
 /shelf/
 /workspace.xml
 HW_avto_7.iml
-data/
+.data/*
 .idea/*
